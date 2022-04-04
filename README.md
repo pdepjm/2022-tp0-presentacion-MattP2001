@@ -1,5 +1,10 @@
-# Presentación
+# Matias Pereda
 
-## Estudiante: Matias Pereda
+## Foto de Perfil
+![](foto1.jpeg)
 
-Seguí los pasos del doc [acá](https://docs.google.com/document/d/e/2PACX-1vQkogtG88cmwEIXEuff291urSyrZUYHikLIoRTspUodvIg5OoaUJTi8n0vqPJ3XUSN65sqJALTBizeB/pub).
+## Presentación
+Tengo 20 años y soy estudiante de la carrera de Ingeniería en Sistemas de Información en la UTN y egresado del colegio secundario [PIO IX](https://www.pioix.edu.ar/) con el titulo de [técnico en electrónica](https://www.pioix.edu.ar/electronica).
+
+
+
